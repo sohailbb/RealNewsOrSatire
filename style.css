@@ -1,0 +1,294 @@
+h1{
+	text-align: center;
+	font-family: 'Cabin', sans-serif;
+	font-size: 100px;
+}
+
+h2{
+	text-align: center;
+	font-family: 'Cabin', sans-serif;
+
+}
+
+img{
+	display: block;
+	margin: 5px auto;
+	height: 500%;
+}
+
+.space {
+  display: flex;
+  margin: 20px auto;
+  align-items: center;
+  text-align-last: center;
+  justify-content: center;
+  position: relative; 
+  font-size: 30px;
+  font-family: 'Cabin', sans-serif;
+  height: 120px;
+}
+
+.headline-style {
+  display: flex;
+  margin: 20px auto;
+  align-items: center;
+  text-align-last: center;
+  justify-content: center;
+  position: relative; 
+  font-size: 30px;
+  font-family: 'Cabin', sans-serif;
+  height: 50px;
+}
+
+.score-style {
+  display: flex;
+  margin: 20px auto;
+  align-items: center;
+  text-align-last: center;
+  justify-content: center;
+  position: relative; 
+  font-size: 20px;
+  font-family: 'Cabin', sans-serif;
+  height: 25px;
+}
+
+.links-style {
+  font-family: 'Cabin', sans-serif;
+  font-size: 20px;
+  text-align-last: center;
+  justify-content: center;
+  height: 50px;
+
+}
+
+.check {
+  display: flex;
+  margin: 20px auto;
+  align-items: center;
+  text-align-last: center;
+  justify-content: center;
+  position: relative; 
+  font-size: 20px;
+  font-family: 'Cabin', sans-serif;
+  height: 10px;
+}
+
+
+.try-again {
+  display: flex;
+  margin: 20px auto;
+  align-items: center;
+  text-align-last: center;
+  justify-content: center;
+  position: relative; 
+  font-size: 20px;
+  font-family: 'Cabin', sans-serif;
+  height: 75px;
+}
+
+.show-score {
+  display: flex;
+  margin: 20px auto;
+  align-items: center;
+  text-align-last: center;
+  justify-content: center;
+  position: relative; 
+  font-size: 20px;
+  font-family: 'Cabin', sans-serif;
+  height: 15px;
+}
+
+
+.final-style {
+  display: flex;
+  margin: 20px auto;
+  align-items: center;
+  text-align-last: center;
+  justify-content: center;
+  position: relative; 
+  font-size: 20px;
+  font-family: 'Cabin', sans-serif;
+  height: 40px;
+}
+
+
+.gameover-style {
+  display: flex;
+  margin: 20px auto;
+  align-items: center;
+  text-align-last: center;
+  justify-content: center;
+  position: relative; 
+  font-size: 30px;
+  font-family: 'Cabin', sans-serif;
+  height: 2000px;
+}
+
+button:focus {outline: 0;}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  height: 125px;
+}
+
+#button0 {
+    background-color: #6CB2EB;
+    border: none;
+    color: white;
+    border-radius: 12px;
+    padding: 15px 32px;
+    text-align: center;
+    margin-left :5px;
+    text-decoration: none;
+	font-family: 'Cabin', sans-serif;
+    display: inline-block;
+    font-size: 60px;
+}
+
+#button1 {
+    background-color: #EF5753;
+    border: none;
+    color: white;
+    border-radius: 12px;
+    padding: 15px 32px;
+    text-align: center;
+    margin-left :5px;
+    text-decoration: none;
+	font-family: 'Cabin', sans-serif;
+    display: inline-block;
+    font-size: 60px;
+}
+
+#button2 {
+    background-color: #51D88A;
+    border: none;
+    color: white; 
+    border-radius: 12px;
+    padding: 15px 32px;
+    margin-left :50px;
+    text-align: center;
+    text-decoration: none;
+	font-family: 'Cabin', sans-serif;
+    display: inline-block;
+    font-size: 60px;
+}
+
+#button3 {
+    background-color: #6CB2EB; 
+    border: none;
+    color: white; 
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+	font-family: 'Cabin', sans-serif;
+    display: inline-block;
+    font-size: 15px;
+}
+
+#button4 {
+    background-color: #51D88A;
+    border: none;
+    text-decoration:none;
+    color: white; 
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+	font-family: 'Cabin', sans-serif;
+    display: inline-block;
+    font-size: 15px;
+}
+
+#button5 {
+    background-color: #EF5753; 
+    border: none;
+    text-decoration: none;
+    color: white; 
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+	font-family: 'Cabin', sans-serif;
+    display: inline-block;
+    font-size: 15px;
+}
+
+#button6 {
+    background-color: #A779E9; 
+    border: none;
+    text-decoration: none;
+    color: white; 
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+	font-family: 'Cabin', sans-serif;
+    display: inline-block;
+    font-size: 15px;
+}
+
+#button7 {
+    background-color: #EF5753; 
+    border: none;
+    text-decoration: none;
+    color: white; 
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+	font-family: 'Cabin', sans-serif;
+    display: inline-block;
+    font-size: 15px;
+}
+
+#button8 {
+    background-color: #51D88A; 
+    border: none;
+    text-decoration: none;
+    color: white; 
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+	font-family: 'Cabin', sans-serif;
+    display: inline-block;
+    font-size: 15px;
+}
+
+#button0:hover{
+  background: #3490DC;
+}
+
+#button1:hover{
+  background: #E3342F;
+}
+
+#button2:hover{
+  background: #38C172;
+}
+
+#button3:hover{
+  background: #3490DC;
+}
+
+#button4:hover{
+  background: #38C172;
+}
+
+#button5:hover{
+  background: #E3342F;
+}
+
+#button6:hover{
+  background: #9561E2;
+}
+
+#buttons {
+	margin:auto;
+  	display:block;
+	text-align: center;
+}
