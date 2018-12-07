@@ -146,7 +146,7 @@ function getGiphyData(response){
 		giphySearchTerm += "Excellent!";
 	}
 
-	var giphyURL = "http://api.giphy.com/v1/gifs/search?q=" + giphySearchTerm + "&api_key=" + giphyKey + "&limit=50";
+	var giphyURL = "https://api.giphy.com/v1/gifs/search?q=" + giphySearchTerm + "&api_key=" + giphyKey + "&limit=50";
 
 	console.log("About to make GIPHY request...");
 		$('#button3').show();
